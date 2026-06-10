@@ -1,4 +1,4 @@
-# 
+# Elite Augment Code tools. Featuring api-integration and privacy-preserving — optimized for maximum performance and efficiency.
 
 
 
